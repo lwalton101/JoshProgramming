@@ -1,0 +1,25 @@
+
+    - functions
+        - passing through arguments
+        - returning shit
+        - procedures vs functions
+
+ORDER:
+ - console output
+ - variable assignment
+ - Input
+ - data types & casting
+ - string concatenation
+ - if statements
+ - booleans and comparisons
+ - lists
+ - list indexing
+ - string indexing
+ - for loop
+ - range()
+ - in statement
+ - while loop
+ - functions
+ - files
+ - random numbers
+ - string reversing & functions
